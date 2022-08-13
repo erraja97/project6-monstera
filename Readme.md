@@ -2,11 +2,11 @@
 This project is a part of Full stack Javascript Bootcamp. In this project i have used basic HTML and CSS to bring out final result.
 
 ## Project Link
-### [Monstera](https://trending-2025.netlify.app/)
+### [Monstera](https://monstera-pot.netlify.app/)
 
 ## Snapshot
 
-![Project 6 - Monstera](./snapshot/Project%201-Trending%202025.JPG)
+![Project 6 - Monstera](./snaphsot/Project%206%20-%20Monstera.JPG)
 
 
 ## What i learned from Project?
